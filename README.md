@@ -1,4 +1,4 @@
-# pairs_trading
+# pairs_trading (in development)
 Pairs trading
 
 Create virtual environment:
