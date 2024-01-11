@@ -1,5 +1,4 @@
-# pairs_trading (in development)
-Pairs trading
+# A pair trading strategy
 
 Create virtual environment:
 
