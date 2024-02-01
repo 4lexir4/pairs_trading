@@ -1,4 +1,4 @@
-# A pairs trading strategy
+# A pairs trading strategy exercise
 
 Create virtual environment:
 
