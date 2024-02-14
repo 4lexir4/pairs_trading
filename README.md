@@ -1,4 +1,4 @@
-# A pairs trading strategy demo
+# Pairs trading
 
 Create virtual environment:
 
