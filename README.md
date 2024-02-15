@@ -1,4 +1,5 @@
 # Pairs trading
+Covering the main idea with some illustrative examples.
 
 Create virtual environment:
 
